@@ -4,3 +4,6 @@
 gmail: vladislavtochilo@gmail.com;
 discord: v.tochilo#7849
 ## Info
+
+## Skills
+
