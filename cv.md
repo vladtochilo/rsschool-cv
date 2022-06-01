@@ -1,5 +1,6 @@
 # Vladislav Tochilo
 
 ## Contacts
-gmail: vladislavtochilo@gmail.com
+gmail: vladislavtochilo@gmail.com;
 discord: v.tochilo#7849
+## Info
